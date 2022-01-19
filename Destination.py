@@ -8,4 +8,5 @@ class Destination():
         self.destination_dir_docx = "/Users/siki/Desktop/Desktop/docx/"
         self.destination_dir_img = "/Users/siki/Desktop/Desktop/img/"
         self.destination_dir_txt = "/Users/siki/Desktop/Desktop/txt/"
+        self.destination_dir_pdf = "/Users/siki/Desktop/Desktop/pdf/"
         self.destination_to_clean = "/Users/siki/Desktop/"

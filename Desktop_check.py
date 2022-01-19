@@ -24,5 +24,3 @@ class Desktop_Check():
         if(len(self.list_all_files) <= 1):
             print("No Files found at your desktop")
             sys.exit(4)
-
-        print(self.list_all_files)
